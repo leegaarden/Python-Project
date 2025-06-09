@@ -1,2 +1,4 @@
 # Python-Project
-credit calculator using Python.
+파이썬을 사용한 학업 성적 계산기
+
+4.5 만점과 4.3 만점에 따른 성적 계산기
